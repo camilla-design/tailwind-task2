@@ -2,6 +2,6 @@
  @tailwind components;
  @tailwind utilities;
 
-.card-wrapper {
+ .card-wrapper {
   @apply max-w-xl mx-auto px-8 py-4 bg-white rounded-lg shadow-lg;
 }

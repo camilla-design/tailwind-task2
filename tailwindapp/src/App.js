@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="card-wrapper">
       <div className="mt-2">
-        <p className="text-2xl  text-card-heading font-bold">
+        <p className="text-2xl text-card-heading font-bold">
           Becoming a full-stack developer
         </p>
         <p className="mt-2 text-gray-600">
